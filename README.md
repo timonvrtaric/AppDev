@@ -1,2 +1,2 @@
-# AppDev
-Here is the playground of the Application Development module
+evo radimo male promjene,
+i tu isto
